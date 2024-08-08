@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="?=?"/>
+        <listEntry value="archetypeGroupId=org.apache.maven.archetypes"/>
+        <listEntry value="archetypeArtifactId=maven-archetype-quickstart"/>
+        <listEntry value="archetypeVersion=1.1"/>
+        <listEntry value="groupId=LibraryManagement"/>
+        <listEntry value="artifactId=LibraryManagement"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=LibraryManagement.LibraryManagement"/>
+        <listEntry value="outputDirectory=/Users/snekhasuresh/eclipse-workspace/Cognizant/src/DataStructures"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="/var/folders/vn/fns498pn6hs8c1t94p02nqgw0000gn/T/m2e-archetypeGenerator15209683589834082697"/>
+</launchConfiguration>
